@@ -1,8 +1,6 @@
 # Political-Survey
 
-# Survey-Program
-
-This is a survey program in Java that asks 15 political belief questions and guesses the user's political party affiliation (Democrat, Republican, Socialist, or Conservative). It stores the user's responses and the corresponding political party in separate text files.
+This is a political survey program in Java that asks 15 political belief questions and guesses the user's political party affiliation (Democrat, Republican, Socialist, or Conservative). It stores the user's responses and the corresponding political party in separate text files.
 
 # Getting Started
 
